@@ -1,0 +1,19 @@
+= Banking Application
+
+:toc:
+
+== Purpose
+Sample banking application as part of Java 8 certification course.
+
+=== Features
+
+* Opening of new accounts
+* Account opening with credentials
+* Deposits / Withdrawals (disallowing negative amounts)
+* Register account payee
+* Transfer of funds accross bank accounts
+* Overdraft facility for Current Accounts
+* Overdraft fees
+* Interest on savings accounts
+* Closing of accounts
+* Deactivation and reactivation of accounts
